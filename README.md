@@ -16,11 +16,11 @@
 
 
 ### Контакты:
-- 📫 Свяжитесь со мной  align="left"><a href= https://t.me/law1om target="_blanc">
-- 🌐 [Мой личный сайт](scr = [https://law1om.github.io/portfolio/])
+- 📫 [Свяжитесь со мной] (https://t.me/law1om)
+- 🌐 [Мой личный сайт](https://law1om.github.io/portfolio/)
 
 ---
 
 ### Моя статистика на GitHub:
-![Ваша статистика GitHub](https://github.com/law1om)
+![Ваша статистика GitHub](https://github-readme-stats.vercel.app/api?username=law1om&show_icons=true&theme=radical)
 
