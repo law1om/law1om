@@ -16,11 +16,9 @@
 
 
 ### Контакты:
-- 📫 [Свяжитесь со мной] (https://t.me/law1om)
+- 📫 [Свяжитесь со мной](https://t.me/law1om)
 - 🌐 [Мой личный сайт](https://law1om.github.io/portfolio/)
 
 ---
 
-### Моя статистика на GitHub:
-![Ваша статистика GitHub](https://github-readme-stats.vercel.app/api?username=law1om&show_icons=true&theme=radical)
 
