@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Ramil</h1>
-<h3 align="center">Frontend developer, AITU college student</h3>
+<h1 align="left">Hi 👋, I'm Ramil</h1>
+<h3 align="left">Frontend developer, AITU college student</h3>
 
 <h3 align="left"><a href= https://t.me/law1om target="_blanc">Connect with me:</h3>
 <p align="left">
